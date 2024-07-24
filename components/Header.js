@@ -7,7 +7,7 @@ export default function Header() {
             <nav class="d-flex mt-">
                 <Link href="/" class="text-dark me-3 text-decoration-none">Home</Link>
                 <Link href="/about" class="text-dark me-3 text-decoration-none">About</Link>
-                <Link href="/contact" class="text-dark text-decoration-none">Contact</Link>
+                <Link href="/addPost" class="text-dark text-decoration-none ">Create Post</Link>
             </nav>
         </div>
     </header>

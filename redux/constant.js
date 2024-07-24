@@ -1,4 +1,11 @@
 export const POST_CARDS="POST_CARDS"
 export const SET_POST_CARDS="SET_POST_CARDS"
 export const  SINGLE_CARD='SINGLE_CARD'
-export const SET_SINGLE_CARD="SET_POST_CARDS"
+ export const SET_SINGLE_CARD_ID="SET_SINGLE_CARD_ID"
+ export const POST_CARDS_SEARCH="POST_CARDS_SEARCH"
+  export const DELETE_CARD="DELETE_CARD"
+  export const SET_DELETE_CARD="SET_DELETE_CARD"
+  
+    export const SET_ADD_CARD="SET_ADD_CARD"
+
+

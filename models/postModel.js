@@ -9,7 +9,7 @@ const postSchema=new Schema({
     toJSON:{virtuals:true}
 });
 postSchema.virtual('short_description').get(function(){
-    return this.description.substring(0,30)+"..."
+    return this.description.substring(0,50)+"..."
 })
 
 
